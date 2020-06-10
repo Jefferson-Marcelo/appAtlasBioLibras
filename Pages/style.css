@@ -1,0 +1,64 @@
+* {
+    display: flex;
+    flex-direction: column;
+    align-items: center;     
+}
+
+@font-face {
+    font-family: "TypoGrafica";
+    src: url(../Pages/Fonts/TypoGraphica_demo.otf);
+}
+
+input {
+    background-color: #102660;
+    color:#F5EAEA;    
+    font-family: "TypoGrafica";
+    align-content: center;
+    align-items: center;
+    text-align: left;
+    border-radius: 50px;
+    margin-top: 20px;    
+    font-size: 20px; 
+    width: 30vw;    
+}
+
+#topo {
+    margin: 30px 0;
+    color: #00081D;
+    font-size: 16px;
+    font-family: "TypoGrafica";
+}
+
+#form1 input {
+    font-family: 'Roboto', sans-serif;       
+} 
+
+#lembrarSenha{
+    display: flex;
+    flex-direction: row;      
+    margin: 0px 0px;    
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color: #00081D;  
+      
+    padding: 0px 0px;     
+}
+
+#enviar{
+    width: 10vw;
+}
+
+#meio{
+    font-size: 40px;
+    margin: 50px 0;
+}
+
+#foot{
+    margin-top: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color: #00081D;
+}
+
+
+
