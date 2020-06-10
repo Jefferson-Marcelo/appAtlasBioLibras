@@ -1,11 +1,11 @@
 # appAtlasBioLibras
 
-##Colaboradores:
-###Professores orientadores:
+## Colaboradores:
+### Professores orientadores:
 * **Jamile** *(Campus Cabedelo)*
 * **Luiz Carlos** *(Campus João Pessoa)*
 
-###Alunos:
+### Alunos:
 * **Jefferson Marcelo** *(Campus João Pessoa)*
 * **Lucas Henrique** *(Campus João Pessoa)*
 * **Luciano** *(Campus João Pessoa)*
