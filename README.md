@@ -14,7 +14,7 @@
 * **Pedro Gabriel** *(Campus João Pessoa)*
 * **Rebeka Nascimento** *(Campus Cabedelo)*
 
----
+----
 
 Etapas do projeto:
 - [x] Criação do desing das telas;
